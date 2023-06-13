@@ -1,2 +1,2 @@
 #!/bin/bash
-tree -aF .
+tree -L 1
